@@ -1,0 +1,7 @@
+html, body {
+    background-color: #333;
+    width: 500px;
+}
+#allContent {
+    height: 100%;
+}
